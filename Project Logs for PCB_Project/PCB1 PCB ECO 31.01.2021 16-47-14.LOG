@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3V Pin=J2-1
+Removed Pin From Net: NetName=3V Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J5-2
+Change Component Footprint: Designator=J5 Old Footprint=Header 1x2 male New Footprint=Header 1x3 male
+Change Component Comment : Designator=J5 Old Comment=349873-345-34_1 New Comment=349873-345-34_2
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Added Component: Designator=J6(Header 1x3 male)
+Added Pin To Net: NetName=3V Pin=J5-2
+Added Pin To Net: NetName=3V Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Member To Class: ClassName=Sheet2 Member=Component *4 ADC
+Added Member To Class: ClassName=Sheet2 Member=Component *7 SPOLE
+Added Member To Class: ClassName=Sheet2 Member=Component C8 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C10 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C11 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C12 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C13 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C15 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C16 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C17 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component J1 349873-345-34_2
+Added Member To Class: ClassName=Sheet2 Member=Component J2 349873-345-34_4
+Added Member To Class: ClassName=Sheet2 Member=Component J3 349873-345-34_2
+Added Member To Class: ClassName=Sheet2 Member=Component J4 349873-345-34_2
+Added Member To Class: ClassName=Sheet2 Member=Component J6 349873-345-34_2

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=D3 Pin=*3-9
+Removed Pin From Net: NetName=D4 Pin=*3-11
+Removed Pin From Net: NetName=D1 Pin=*3-12
+Removed Pin From Net: NetName=D5 Pin=*3-13
+Removed Pin From Net: NetName=D2 Pin=*3-14
+Removed Pin From Net: NetName=CS Pin=*3-17
+Removed Pin From Net: NetName=CLK Pin=*3-23
+Removed Pin From Net: NetName=3V Pin=*3-31
+Removed Pin From Net: NetName=3V Pin=*3-32
+Removed Pin From Net: NetName=GND Pin=*3-33
+Removed Pin From Net: NetName=GND Pin=*3-34
+Change Component Designator: OldDesignator=*4 NewDesignator=*3
+Added Component: Designator=*4(Header 2x17 female 2.56)
+Added Pin To Net: NetName=D3 Pin=*4-1
+Added Pin To Net: NetName=D4 Pin=*4-3
+Added Pin To Net: NetName=D1 Pin=*4-4
+Added Pin To Net: NetName=D5 Pin=*4-5
+Added Pin To Net: NetName=D2 Pin=*4-6
+Added Pin To Net: NetName=CS Pin=*4-9
+Added Pin To Net: NetName=CLK Pin=*4-15
+Added Pin To Net: NetName=3V Pin=*4-23
+Added Pin To Net: NetName=3V Pin=*4-24
+Added Pin To Net: NetName=GND Pin=*4-25
+Added Pin To Net: NetName=GND Pin=*4-26

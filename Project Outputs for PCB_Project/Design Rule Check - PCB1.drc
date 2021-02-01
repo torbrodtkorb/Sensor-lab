@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\tor\Documents\Prosjekter\PCB design\PCB_Project2\PCB1.PcbDoc
+Date     : 01/02/2021
+Time     : 13:37:51
+
+Processing Rule : Clearance Constraint (Gap=0.16mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.16mm) (Max=5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=1mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.35mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.178mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Text "C" (104.92mm,83.05mm) on Top Overlay And Text "C" (125.69mm,85.82mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
+   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Text "C" (107.05mm,88.14mm) on Top Overlay And Text "C" (127.82mm,90.91mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
+   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Text "C" (108.97mm,92.85mm) on Top Overlay And Text "C" (129.74mm,95.62mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
+   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Text "C" (67.46mm,92.86mm) on Top Overlay And Text "C" (88.23mm,95.63mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
+   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Text "C" (69.48mm,88.16mm) on Top Overlay And Text "C" (90.25mm,90.93mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
+   Violation between Silk To Silk Clearance Constraint: (0.03mm < 0.254mm) Between Text "C" (71.719mm,83.196mm) on Top Overlay And Text "C" (92.489mm,85.966mm) on Top Overlay Silk Text to Silk Clearance [0.03mm]
+Rule Violations :6
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=200mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:02
